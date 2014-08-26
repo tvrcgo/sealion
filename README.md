@@ -5,8 +5,15 @@ sealion
 
 + base 基础模块
   - seajs
+    - 2.3.0
+      - sea.js
   - jquery
+    - 2.1.1
+      - jquery.min.js
   - bootstrap
+    - 3.2.0
+      - bootstrap.min.js
+      - bootstrap.min.css
 
 + module 自定义模块
   - encryption
