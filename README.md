@@ -1,7 +1,7 @@
 sealion
 =======
 
-前端框架
+前端框架，用Sea.js做加载，用gulpjs做构建。
 
 + base 基础模块
   - seajs
