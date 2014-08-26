@@ -1,26 +1,52 @@
-sealion
-=======
+# sealion
 
-前端框架，用Sea.js做加载，用gulpjs做构建。
+前端框架，用Sea.js做加载，用gulp.js构建。
+
+### 框架结构
 
 + base 基础模块
   - seajs
+    - 2.3.0
+      - sea.js
   - jquery
+    - 2.1.1
+      - jquery.min.js
   - bootstrap
+    - 3.2.0
+      - bootstrap.min.js
+      - bootstrap.min.css
 
 + module 自定义模块
   - encryption
     - rc4.js
     - rsa.js
+    - src
+      - rc4.js
+      - rsa.js
   - fs
     - walk.js
+    - src
+      - walk.js
 
 + app 业务
-  - sample.js
-  - wiki.js
-  + src
-    - sample.js
-    - wiki.js
+  - app1
+    - main.js
+    - style.css
+    - src
+      - app11.js
+      - app12.js
+      - style1.css
+      - style2.css
+  
+  - app2
+    - sub1
+      - main.js
+      - style.css
+      - src
+    - sub2
+      - main.js
+      - style.css
+      - src
     
 - loader.js 框架入口
 
@@ -28,3 +54,6 @@ sealion
 
 - package.json 包配置
 
+### 资源
+- Sea.js  http://seajs.org/docs/
+- gulp.js  http://gulpjs.com/
