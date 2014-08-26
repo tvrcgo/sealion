@@ -12,7 +12,7 @@ gulp.task('js', function(){
 			gulp.src('app/'+item+'/src/*.js')
 				.pipe(uglify())
 				.pipe(concat('main.js'))
-				.pipe(gulp.dest('app/'+item+'/main.js'));
+				.pipe(gulp.dest('app/'+item));
 		}
 	});
 });
