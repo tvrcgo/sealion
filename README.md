@@ -55,5 +55,5 @@
 - package.json 包配置
 
 ### 资源
-- Sea.js  http://seajs.com/
+- Sea.js  http://seajs.org/docs/
 - gulp.js  http://gulpjs.com/
