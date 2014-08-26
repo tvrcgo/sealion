@@ -12,15 +12,29 @@ sealion
   - encryption
     - rc4.js
     - rsa.js
+    - src
+      - rc4.js
+      - rsa.js
   - fs
     - walk.js
+    - src
+      - walk.js
 
 + app 业务
-  - sample.js
-  - wiki.js
-  + src
-    - sample.js
-    - wiki.js
+  - app1
+    - main.js
+    - style.css
+    - src
+      - app11.js
+      - app12.js
+      - style1.css
+      - style2.css
+  
+  - app2
+    - main.js
+    - style.css
+    - src
+      - ...
     
 - loader.js 框架入口
 
