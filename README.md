@@ -38,10 +38,14 @@ sealion
       - style2.css
   
   - app2
-    - main.js
-    - style.css
-    - src
-      - ...
+    - sub1
+      - main.js
+      - style.css
+      - src
+    - sub2
+      - main.js
+      - style.css
+      - src
     
 - loader.js 框架入口
 
