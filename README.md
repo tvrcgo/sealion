@@ -22,3 +22,9 @@ sealion
     - sample.js
     - wiki.js
     
+- loader.js 框架入口
+
+- gulpfile.js 构建配置
+
+- package.json 包配置
+
