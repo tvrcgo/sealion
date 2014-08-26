@@ -1,7 +1,8 @@
-sealion
-=======
+# sealion
 
 前端框架，用Sea.js做加载，用gulpjs做构建。
+
+### 框架结构
 
 + base 基础模块
   - seajs
@@ -53,3 +54,6 @@ sealion
 
 - package.json 包配置
 
+### 资源
+- sea.js  http://seajs.com/
+- gulp.js  http://gulpjs.com/
