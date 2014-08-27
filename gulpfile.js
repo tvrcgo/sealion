@@ -33,6 +33,8 @@ gulp.task('js', function(){
 		.pipe(uglify())
 		.pipe(gulp.dest('module'));
 
+	console.log('done');
+
 });
 
 gulp.task('default', ['js']);
