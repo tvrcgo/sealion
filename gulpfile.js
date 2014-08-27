@@ -29,6 +29,10 @@ gulp.task('js', function(){
 		}
 	});
 
+	gulp.src('module/src/*.js')
+		.pipe(uglify())
+		.pipe(gulp.dest('module'));
+
 });
 
 gulp.task('default', ['js']);
