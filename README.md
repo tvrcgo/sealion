@@ -20,13 +20,8 @@
   - encryption
     - rc4.js
     - rsa.js
-    - src
-      - rc4.js
-      - rsa.js
   - fs
     - walk.js
-    - src
-      - walk.js
 
 + app 业务
   - app1
@@ -42,11 +37,9 @@
     - sub1
       - main.js
       - style.css
-      - src
     - sub2
       - main.js
       - style.css
-      - src
     
 - loader.js 框架入口
 
