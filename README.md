@@ -1,6 +1,6 @@
 # sealion
 
-前端框架，用Sea.js做加载，用gulp.js构建。
+前端框架，用Sea.js做模块加载，用gulp.js构建。
 
 ### 框架结构
 
