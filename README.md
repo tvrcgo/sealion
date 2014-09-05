@@ -24,13 +24,8 @@
     - walk.js
 
 + app 业务
-  - app1
-    - app1.js
-    - app2.js
-    - style1.css
-    - style2.css
 
-  - app1-dist
+  - app1
   	- main.js
   	- style.css
   
