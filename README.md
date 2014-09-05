@@ -25,19 +25,20 @@
 
 + app 业务
   - app1
-    - main.js
-    - style.css
-    - src
-      - app11.js
-      - app12.js
-      - style1.css
-      - style2.css
+    - app1.js
+    - app2.js
+    - style1.css
+    - style2.css
+
+  - app1-dist
+  	- main.js
+  	- style.css
   
   - app2
-    - sub1
+    - subapp1
       - main.js
       - style.css
-    - sub2
+    - subapp2
       - main.js
       - style.css
     
