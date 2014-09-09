@@ -43,6 +43,13 @@
 
 - package.json 包配置
 
+### 模块
+- gulp
+- gulp-seajs-transport
+```sh
+npm install gulp gulp-seajs-transport
+```
+
 ### 资源
 - Sea.js  http://seajs.org/docs/
 - gulp.js  http://gulpjs.com/
