@@ -15,20 +15,16 @@
     - 3.2.0
       - bootstrap.min.js
       - bootstrap.min.css
-
 + module 自定义模块
   - encryption
     - rc4.js
     - rsa.js
   - fs
     - walk.js
-
 + app 业务
-
   - app1
   	- main.js
   	- style.css
-  
   - app2
     - subapp1
       - main.js
@@ -36,11 +32,8 @@
     - subapp2
       - main.js
       - style.css
-    
 - loader.js 框架入口
-
 - gulpfile.js 构建配置
-
 - package.json 包配置
 
 ### 模块
